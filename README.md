@@ -16,5 +16,11 @@ Update the Web App with Mars Hemisphere Images and Titles
 
 Add Bootstrap 3 Components
 
-<img width="510" alt="2" src="https://user-images.githubusercontent.com/86527347/133018570-d4fa51e7-4bb3-4cb7-bcdb-c9cbdead66c3.png">
+## Submission
+
+The Mission_to_Mars_Challenge.ipynb[Mission_to_Mars_Challenge/Mission_to_Mars_Challenge.ipynb] file with all the code used for scraping.
+An updated scraping.py file.
+The app.py file.
+The index.html file in the template folder and any CSS stylesheets.
+A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
 
