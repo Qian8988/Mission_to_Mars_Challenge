@@ -19,7 +19,7 @@ Add Bootstrap 3 Components
 ## Submission
 
 The Mission_to_Mars_Challenge.ipynb file with all the code used for scraping.
-[Mission_to_Mars_Challenge.ipynb](Mission_to_Mars_Challenge/Mission_to_Mars_Challenge.ipynb)
+[Mission_to_Mars_Challenge.ipynb](Mission_to_Mars_Challenge.ipynb)
 
 An updated scraping.py file.
 [scraping.py](Mission_to_Mars_Challenge/scraping.py) 
