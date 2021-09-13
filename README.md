@@ -22,13 +22,13 @@ The Mission_to_Mars_Challenge.ipynb file with all the code used for scraping.
 [Mission_to_Mars_Challenge.ipynb](Mission_to_Mars_Challenge.ipynb)
 
 An updated scraping.py file.
-[scraping.py](Mission_to_Mars_Challenge/scraping.py) 
+[scraping.py](scraping.py) 
 
 The app.py file.
-[app.py](Mission_to_Mars_Challenge/app.py)
+[app.py](app.py)
 
 The index.html file in the template folder and any CSS stylesheets.
-[index.html](Mission_to_Mars_Challenge/template/index.html)
+[index.html](index.html)
 
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
 
