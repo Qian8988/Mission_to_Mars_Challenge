@@ -19,6 +19,7 @@ Add Bootstrap 3 Components
 ## Submission
 
 The Mission_to_Mars_Challenge.ipynb[Mission_to_Mars_Challenge/Mission_to_Mars_Challenge.ipynb] file with all the code used for scraping.
+
 An updated scraping.py file.
 The app.py file.
 The index.html file in the template folder and any CSS stylesheets.
